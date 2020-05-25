@@ -38,7 +38,7 @@ header {
 }
 
 .head-contact p, img {
-  margin: 10px;
+ 	margin: 10px;
 }
 
 .contact-in {
@@ -46,5 +46,37 @@ header {
 }
 
 .navigation {
-	
+	margin: 10px;
+	width: 20%;
+	border-right-width: 2px;
+	border-color: #67655eba;
+	border-right-style: solid;
+}
+
+.navigation p {
+	font-size: 20px;
+	padding: 5px 0;
+	margin: 0 20px 0 0;
+}
+
+.navigation ul {
+	padding: 0px;
+	margin: 10px 0px;
+}
+
+.menu-ref {
+	text-decoration: none;
+}
+
+.menu-ref p {
+	margin: 9px 0;
+	color: #67655e;
+	padding: 0;
+}
+
+.nav-header {
+	border-bottom: 1px;
+	margin-right: 20px;
+	border-color: #67655eba;
+	border-bottom-style: solid;
 }
