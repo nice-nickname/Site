@@ -1,0 +1,50 @@
+h1,h2,h3,h4,h5,p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background-color: #ebebeb;
+}
+
+.header-logo {
+	display: flex;
+	padding: 15px 15px;
+}
+
+
+.header-p {
+	display: inline-table;
+}
+
+.header-p p {
+	margin: 2px 5px;
+}
+
+.header-left {
+	margin-left: auto;
+	display: flex;
+}
+
+.contact-with-us {
+	 border-right-width: 2px;
+	 border-right-style: solid;
+	 padding-right: 15px;
+}
+
+
+.head-contact {
+	display: flex;
+	flex-flow: column;
+}
+
+.head-contact p, img {
+  margin: 10px;
+}
+
+.contact-in {
+	display: inline-flex;
+}
+
+.navigation {
+	
+}
