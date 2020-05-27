@@ -100,7 +100,19 @@ body {
 }
 
 footer {
-	font-size: 15px;
+	border-top: solid;
+	border-width: 2px;
+	border-color: #67655eba;
 	background-color: #ebebeb;
+	font-size: 13px;
 	width: 100%;
+	padding: 5px 20px;
+}
+
+.info {
+	list-style-type: none;
+}
+
+.info p {
+	margin: 2px 0;
 }
