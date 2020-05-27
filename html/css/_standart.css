@@ -6,6 +6,11 @@ header {
 	background-color: #ebebeb;
 }
 
+body {
+	display: flex;
+	flex-direction: column;
+}
+
 .header-logo {
 	display: flex;
 	padding: 15px 15px;
@@ -48,20 +53,25 @@ header {
 .navigation {
 	margin: 10px;
 	width: 20%;
+}
+
+.nav-menu {
 	border-right-width: 2px;
 	border-color: #67655eba;
 	border-right-style: solid;
+	padding-bottom: 30px;
 }
 
-.navigation p {
+.nav-menu p {
 	font-size: 20px;
 	padding: 5px 0;
 	margin: 0 20px 0 0;
 }
 
-.navigation ul {
-	padding: 0px;
+.nav-menu ul {
 	margin: 10px 0px;
+	padding-bottom: 20px;
+	padding: 0px;
 }
 
 .menu-ref {
@@ -79,4 +89,18 @@ header {
 	margin-right: 20px;
 	border-color: #67655eba;
 	border-bottom-style: solid;
+}
+
+.main-content {
+	display: flex;
+}
+
+.content {
+	width: 80%;
+}
+
+footer {
+	font-size: 15px;
+	background-color: #ebebeb;
+	width: 100%;
 }
