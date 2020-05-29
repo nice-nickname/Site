@@ -2,6 +2,8 @@ h1,h2,h3,h4,h5,p {
 	font-family: 'Open Sans', sans-serif;
 }
 
+/*Это стандартный view страницы - заголовок + меню + подвал*/
+
 header {
 	background-color: #ebebeb;
 }
@@ -142,5 +144,3 @@ body {
 .footer {
   flex-shrink: 0;
 }
-
-/* Выше - для привязки footer к низу страницы */
