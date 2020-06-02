@@ -4,6 +4,10 @@ h1,h2,h3,h4,h5,p {
 
 /*Это стандартный view страницы - заголовок + меню + подвал*/
 
+body {
+	margin: 0 8px;
+}
+
 header {
 	background-color: #ebebeb;
 }

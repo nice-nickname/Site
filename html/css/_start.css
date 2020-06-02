@@ -1,0 +1,25 @@
+.inner-content {
+	margin: 3% 0 3% 3%;
+}
+
+.inner-brands {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	margin-top: 10px;
+	margin-right: 20px;
+	border-color: #67655eba;
+}
+
+.brands {
+	margin-bottom: 16px;
+}
+
+.brands img {
+	margin: 5px 5px;
+}
+
+.service-list {
+	padding-bottom: 7px;
+}
