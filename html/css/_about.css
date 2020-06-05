@@ -6,3 +6,19 @@
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
 }
+
+.projects {
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+.inner-projects {
+	
+}
+
+.projects-about {
+	padding-top: 3px;
+}
+.projects-about h2 {
+	margin: 0;
+}
