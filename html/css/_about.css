@@ -10,6 +10,8 @@
 .projects {
 	border-top-width: 1px;
 	border-top-style: solid;
+    display: flex;
+    flex-flow: column;
 }
 
 .inner-projects {
