@@ -16,8 +16,10 @@
 	padding-top: 15px;
 }
 
-.inner-projects img {
-    width: 100%;
+@media(max-width: 440px) {
+    .inner-projects img {
+        width: 90%;
+    }
 }
 
 .projects-about {
