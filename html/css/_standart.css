@@ -78,7 +78,7 @@ header {
 	padding: 0px;
 }
 
-.menu-ref, .active {
+.menu-ref, .menu-ref-ad, .active-ad, .active {
 	text-decoration: none;
 }
 
@@ -131,6 +131,35 @@ footer {
 	margin: 2px 0;
 }
 
+.adaptive-menu ul {
+	padding: 0;
+}
+
+.adaptive-menu ul li p{
+	text-decoration: none;
+}
+
+.menu-ref-ad p {
+	margin: 9px 0;
+	color: #000;
+	padding: 0;
+	background-color: #cacaca;
+}
+
+.active-ad p {
+	margin: 9px 0;
+	color: black;
+	padding: 0;
+	background-color: #cacaca;
+}
+
+.active-ad p::before {
+	content: "> "
+}
+
+.adaptive-menu {
+	text-align: center;
+}
 
 
 /* Ниже - для привязки footer к низу страницы */

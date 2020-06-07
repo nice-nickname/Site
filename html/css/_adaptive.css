@@ -22,6 +22,10 @@
 	.header-logo img {
 		width: 157px;
 	}
+}
 
-
+@media(min-width: 750px) {
+	.adaptive-menu {
+		display: none;
+	}	
 }
