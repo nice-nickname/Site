@@ -17,6 +17,9 @@ header {
 	padding: 15px 15px;
 }
 
+.contact-in img {
+	height: 25px;
+}
 
 .header-p {
 	display: inline-table;

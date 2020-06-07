@@ -1,0 +1,22 @@
+.inner-content {
+	margin: 3% 0 3% 3%;
+}
+
+.about-weld {
+	margin-top: 10px;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+.weld-type p {
+	margin: 0;
+}
+
+.weld-type h2 {
+	margin-bottom: 0;
+}
+
+.weld-type img{
+	float: left;
+	margin-bottom: 0;
+}
