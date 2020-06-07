@@ -16,12 +16,17 @@
 	padding-top: 15px;
 }
 
+.inner-projects img {
+    width: 100%;
+}
+
 .projects-about {
 	padding-top: 3px;
 }
 .projects-about h2 {
 	margin: 0;
 }
+
 
 /* Настройки слайдера */
 

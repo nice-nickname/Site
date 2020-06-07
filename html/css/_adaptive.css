@@ -7,6 +7,10 @@
 	.navigation {
 		display: none;
 	}
+
+	.content {
+		width: 100%;
+	}
 }
 
 @media(max-width: 450px) {
@@ -14,4 +18,6 @@
 	.header-logo img {
 		display: none;
 	}
+
+
 }
