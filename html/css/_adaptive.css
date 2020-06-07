@@ -1,0 +1,17 @@
+@media(max-width: 750px) {
+
+	.header-left {
+		display: none;
+	}
+
+	.navigation {
+		display: none;
+	}
+}
+
+@media(max-width: 450px) {
+
+	.header-logo img {
+		display: none;
+	}
+}
