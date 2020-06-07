@@ -15,8 +15,12 @@
 
 @media(max-width: 450px) {
 
+	.header-logo {
+		flex-flow: column;
+	}
+
 	.header-logo img {
-		display: none;
+		width: 157px;
 	}
 
 
