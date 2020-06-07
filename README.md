@@ -1,1 +1,1 @@
-My first site html|css pages
+my first html + css + js + nginx project
